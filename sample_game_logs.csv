@@ -1,0 +1,51 @@
+game_date,player,team,opponent,home_away,position,minutes,pts,reb,ast,threes
+2026-10-02,Demo Forward,Coastal,East City,Away,F,28.6,27,9,5,1
+2026-10-04,Demo Forward,Coastal,River Town,Home,F,35.6,28,6,9,2
+2026-10-06,Demo Forward,Coastal,West Valley,Away,F,31.1,21,7,6,5
+2026-10-08,Demo Forward,Coastal,North Park,Home,F,28.1,29,6,5,1
+2026-10-10,Demo Forward,Coastal,Lakeside,Away,F,29.1,24,12,5,5
+2026-10-12,Demo Forward,Coastal,East City,Home,F,35.0,28,7,6,2
+2026-10-14,Demo Forward,Coastal,River Town,Away,F,27.1,25,7,8,4
+2026-10-16,Demo Forward,Coastal,West Valley,Home,F,30.1,31,12,6,2
+2026-10-18,Demo Forward,Coastal,North Park,Away,F,32.4,22,12,3,2
+2026-10-20,Demo Forward,Coastal,Lakeside,Home,F,31.3,29,6,9,5
+2026-10-22,Demo Forward,Coastal,East City,Away,F,34.1,18,7,5,5
+2026-10-24,Demo Forward,Coastal,River Town,Home,F,33.2,26,6,8,4
+2026-10-26,Demo Forward,Coastal,West Valley,Away,F,31.3,16,7,6,4
+2026-10-28,Demo Forward,Coastal,North Park,Home,F,34.6,30,11,3,3
+2026-10-30,Demo Forward,Coastal,Lakeside,Away,F,28.3,17,11,3,1
+2026-11-01,Demo Forward,Coastal,East City,Home,F,32.8,30,9,5,5
+2026-11-03,Demo Forward,Coastal,River Town,Away,F,30.5,31,12,10,0
+2026-11-05,Demo Forward,Coastal,West Valley,Home,F,35.9,17,5,9,3
+2026-11-07,Demo Forward,Coastal,North Park,Away,F,34.4,18,10,8,1
+2026-11-09,Demo Forward,Coastal,Lakeside,Home,F,29.4,25,9,4,2
+2026-11-11,Demo Forward,Coastal,East City,Away,F,30.0,32,8,4,3
+2026-11-13,Demo Forward,Coastal,River Town,Home,F,35.9,30,4,8,1
+2026-11-15,Demo Forward,Coastal,West Valley,Away,F,33.9,32,10,2,4
+2026-11-17,Demo Forward,Coastal,North Park,Home,F,32.0,27,12,3,0
+2026-11-19,Demo Forward,Coastal,Lakeside,Away,F,33.9,21,10,8,3
+2026-10-02,Demo Guard,Metro,East City,Away,G,32.5,25,6,6,2
+2026-10-04,Demo Guard,Metro,River Town,Home,G,28.5,15,5,8,4
+2026-10-06,Demo Guard,Metro,West Valley,Away,G,27.5,12,5,12,6
+2026-10-08,Demo Guard,Metro,North Park,Home,G,28.6,26,2,7,3
+2026-10-10,Demo Guard,Metro,Lakeside,Away,G,35.5,15,3,6,3
+2026-10-12,Demo Guard,Metro,East City,Home,G,28.0,21,1,9,3
+2026-10-14,Demo Guard,Metro,River Town,Away,G,27.8,18,5,6,4
+2026-10-16,Demo Guard,Metro,West Valley,Home,G,33.3,26,6,12,6
+2026-10-18,Demo Guard,Metro,North Park,Away,G,27.1,23,0,8,4
+2026-10-20,Demo Guard,Metro,Lakeside,Home,G,29.5,16,4,6,3
+2026-10-22,Demo Guard,Metro,East City,Away,G,28.2,24,1,5,3
+2026-10-24,Demo Guard,Metro,River Town,Home,G,34.5,18,8,11,5
+2026-10-26,Demo Guard,Metro,West Valley,Away,G,32.2,17,1,11,3
+2026-10-28,Demo Guard,Metro,North Park,Home,G,28.5,12,3,9,5
+2026-10-30,Demo Guard,Metro,Lakeside,Away,G,35.3,25,8,12,4
+2026-11-01,Demo Guard,Metro,East City,Home,G,34.7,19,7,4,5
+2026-11-03,Demo Guard,Metro,River Town,Away,G,32.8,16,3,4,1
+2026-11-05,Demo Guard,Metro,West Valley,Home,G,30.6,21,1,4,3
+2026-11-07,Demo Guard,Metro,North Park,Away,G,28.9,27,2,9,1
+2026-11-09,Demo Guard,Metro,Lakeside,Home,G,35.5,17,7,8,1
+2026-11-11,Demo Guard,Metro,East City,Away,G,31.7,26,2,8,4
+2026-11-13,Demo Guard,Metro,River Town,Home,G,28.2,25,3,8,4
+2026-11-15,Demo Guard,Metro,West Valley,Away,G,27.5,29,5,12,1
+2026-11-17,Demo Guard,Metro,North Park,Home,G,32.5,19,4,4,2
+2026-11-19,Demo Guard,Metro,Lakeside,Away,G,32.9,26,3,4,2
